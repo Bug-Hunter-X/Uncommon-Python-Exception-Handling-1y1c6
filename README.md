@@ -1,0 +1,1 @@
+This repository demonstrates a simple Python function that illustrates how to gracefully handle various exceptions. It includes handling for specific exceptions (ZeroDivisionError, TypeError) and a generic Exception block to catch unforeseen errors. The solution file shows how to improve the error handling with a more specific exception handling for the given scenario.
